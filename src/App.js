@@ -7,9 +7,9 @@ function App() {
     <>
       {/* Importing Navbar from components */}
 
-      <Navbar appName="Hello" />
+      <Navbar appName="TextAnalzer" />
       <div className="container my-3">
-        {/* Navbar through componenets */}
+        {/* NTextForm through componenets */}
         <TextForm heading="Enter your text to analyze." />
       </div>
     </>
