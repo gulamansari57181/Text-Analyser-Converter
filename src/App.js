@@ -1,5 +1,5 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
+import Title from "./components/Title";
 import TextForm from "./components/TextForm";
 
 function App() {
@@ -7,10 +7,12 @@ function App() {
     <>
       {/* Importing Navbar from components */}
 
-      <Navbar appName="TextAnalzer" />
+      <div className="title">
+        <Title appName="Text Analyzer" />
+      </div>
       <div className="container my-3">
         {/* NTextForm through componenets */}
-        <TextForm heading="Enter your text to analyze." />
+        <TextForm heading="Enter your text to analyze :" />
       </div>
     </>
   );

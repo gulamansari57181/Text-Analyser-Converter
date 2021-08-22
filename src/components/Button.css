@@ -1,0 +1,25 @@
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btn {
+  min-width: 160px;
+  height: 35px;
+  padding: 2px;
+  margin-left: 5px;
+  margin-top: 5px;
+  color: whitesmoke;
+  border-radius: 30px;
+  border: 2px solid whitesmoke;
+}
+.btn:hover {
+  width: fit-content;
+  height: 35px;
+  padding: 2px;
+  color: #6dc9e0;
+  border-radius: 30px;
+  border: 2px solid #6dc9e0;
+}

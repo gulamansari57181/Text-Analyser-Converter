@@ -1,38 +1,14 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+body {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1003%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(4%2c 24%2c 46%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c419.322C80.027%2c428.633%2c161.272%2c399.899%2c227.71%2c354.324C293.064%2c309.492%2c342.133%2c242.85%2c366.968%2c167.589C390.387%2c96.617%2c367.885%2c22.47%2c361.796%2c-52.018C355.254%2c-132.046%2c379.821%2c-222.969%2c329.898%2c-285.858C279.814%2c-348.95%2c187.207%2c-352.027%2c108.84%2c-370.674C34.419%2c-388.382%2c-46.288%2c-425.309%2c-115.021%2c-391.725C-183.262%2c-358.381%2c-183.298%2c-259.304%2c-234.289%2c-203.013C-287.089%2c-144.725%2c-387.905%2c-133.335%2c-415.722%2c-59.772C-443.985%2c14.97%2c-417.211%2c103.255%2c-375.987%2c171.707C-336.677%2c236.981%2c-259.665%2c263.116%2c-196.028%2c305.025C-131.552%2c347.487%2c-76.685%2c410.4%2c0%2c419.322' fill='%23031325'%3e%3c/path%3e%3cpath d='M1440 953.398C1512.807 955.592 1551.056 865.9870000000001 1605.673 817.793 1651.09 777.717 1703.125 746.405 1733.781 694.165 1766.712 638.047 1787.484 575.283 1786.158 510.23 1784.723 439.824 1772.88 364.728 1725.996 312.183 1679.312 259.861 1606.8029999999999 232.437 1536.705 230.65300000000002 1473.19 229.03699999999998 1426.793 290.313 1364.533 302.984 1293.179 317.506 1204.8899999999999 260.705 1150.598 309.231 1098.058 356.19100000000003 1137.922 445.378 1127.283 515.038 1116.517 585.534 1054.659 657.6949999999999 1087.729 720.877 1121.122 784.6759999999999 1220.523 768.328 1280.622 807.9970000000001 1341.88 848.431 1366.634 951.187 1440 953.398' fill='%23051d37'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1003'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  color: whitesmoke;
+}
+.title {
+  text-decoration: none;
   text-align: center;
-}
+  font-family: "Anton", sans-serif;
+  font-size: 5vw;
+  color: #6dc9e0;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  text-shadow: 2px 2px #f16969;
 }
