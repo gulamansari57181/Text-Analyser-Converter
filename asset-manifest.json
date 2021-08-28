@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Text-Analyser-Converter/static/css/main.36e3a2fd.chunk.css",
+    "main.js": "/Text-Analyser-Converter/static/js/main.9f21f779.chunk.js",
+    "main.js.map": "/Text-Analyser-Converter/static/js/main.9f21f779.chunk.js.map",
+    "runtime-main.js": "/Text-Analyser-Converter/static/js/runtime-main.f2286336.js",
+    "runtime-main.js.map": "/Text-Analyser-Converter/static/js/runtime-main.f2286336.js.map",
+    "static/js/2.7c65a398.chunk.js": "/Text-Analyser-Converter/static/js/2.7c65a398.chunk.js",
+    "static/js/2.7c65a398.chunk.js.map": "/Text-Analyser-Converter/static/js/2.7c65a398.chunk.js.map",
+    "static/js/3.02257779.chunk.js": "/Text-Analyser-Converter/static/js/3.02257779.chunk.js",
+    "static/js/3.02257779.chunk.js.map": "/Text-Analyser-Converter/static/js/3.02257779.chunk.js.map",
+    "index.html": "/Text-Analyser-Converter/index.html",
+    "static/css/main.36e3a2fd.chunk.css.map": "/Text-Analyser-Converter/static/css/main.36e3a2fd.chunk.css.map",
+    "static/js/2.7c65a398.chunk.js.LICENSE.txt": "/Text-Analyser-Converter/static/js/2.7c65a398.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2286336.js",
+    "static/js/2.7c65a398.chunk.js",
+    "static/css/main.36e3a2fd.chunk.css",
+    "static/js/main.9f21f779.chunk.js"
+  ]
+}
