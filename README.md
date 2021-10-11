@@ -1,9 +1,6 @@
-# Getting Started with Create React App
+# Text Analyzer is a React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Let's play with th app : (https://gulamansari57181.github.io/Text-Analyser-Converter/)
 
-## Available Scripts
-
-In the project directory, you can run:
 
 
