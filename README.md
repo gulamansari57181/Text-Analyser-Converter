@@ -2,6 +2,10 @@
 
 Let's play with th app : (https://gulamansari57181.github.io/Text-Analyser-Converter/)
 
+# GUI Sample :
+![ScreenShot](Screenshot(49).png)
+
+
 ## User has following features to analyze their text :
 - Type or paste their text in dedicated area.
 - Convert text to uppercase.
