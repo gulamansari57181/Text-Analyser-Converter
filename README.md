@@ -1,6 +1,6 @@
-# Text Analyzer is a React App
+# Text Analyzer (React App)
 
-Let's play with th app : (https://gulamansari57181.github.io/Text-Analyser-Converter/)
+Let's play with the app : (https://gulamansari57181.github.io/Text-Analyser-Converter/)
 
 # GUI Sample :
 ![ScreenShot](https://github.com/gulamansari57181/Text-Analyser-Converter/blob/master/Screenshot%20(49).png)
